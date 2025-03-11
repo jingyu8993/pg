@@ -2,7 +2,7 @@
 	"spider":"./pg.jar",
 	"sites":[
 {"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/N3RD/J/lem0305.jar;md5;326F5D8B84B7AAE605131BF00E96053B",
-		"key":"drjs_洪宇资源","name":"😎洪宇资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/js/洪宇资源.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/json/yuyu.json"},
+		"key":"drjs_洪宇资源","name":"😎洪宇资源","type":3,"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/libs/drpy2.min.js","ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/js/hyzy.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/json/yuyu.json"},
 		
 		{
 			"key": "豆瓣",
