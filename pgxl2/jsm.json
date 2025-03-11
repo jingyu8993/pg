@@ -1,7 +1,6 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-{"key":"drjs_洪宇资源","name":"😎洪宇资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/洪宇资源.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/dr_py/json/yuyu.json","jar":"./lem0305.jar;md5;326F5D8B84B7AAE605131BF00E96053B"},
 
 		{
 			"key": "豆瓣",
